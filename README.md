@@ -5,4 +5,4 @@
 * [2018/5/20"地図に建物って載ってる？"](https://medium.com/furuhashilab/%E5%9C%B0%E5%9B%B3%E3%81%AB%E5%BB%BA%E7%89%A9%E3%81%A3%E3%81%A6%E8%BC%89%E3%81%A3%E3%81%A6%E3%81%9F%E3%81%A3%E3%81%91-4c78e7bb5fab)
 * [2018/5/25"地図インフラ格差"](https://medium.com/furuhashilab/%E5%9C%B0%E5%9B%B3%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E6%A0%BC%E5%B7%AE-3d6c58bb629a)
 * [2018/5/31"Je soutiens Médecins Sans Frontières"](https://medium.com/furuhashilab/je-soutiens-m%C3%A9decins-sans-fronti%C3%A8res-ea8dcdd72e5a)
-* [東大、渡邉研究室訪問記](https://medium.com/furuhashilab/%E6%9D%B1%E5%A4%A7-%E6%B8%A1%E9%82%89%E7%A0%94%E7%A9%B6%E5%AE%A4%E8%A8%AA%E5%95%8F%E8%A8%98-3f154802c90c)
+* [2018/6/1"東大、渡邉研究室訪問記"](https://medium.com/furuhashilab/%E6%9D%B1%E5%A4%A7-%E6%B8%A1%E9%82%89%E7%A0%94%E7%A9%B6%E5%AE%A4%E8%A8%AA%E5%95%8F%E8%A8%98-3f154802c90c)
