@@ -1,4 +1,5 @@
 # GraduationWork (卒業作品用レポジトリ)
+## プロトタイプ用勉強資料
 ## 卒論用研究ブログ2018年度
 * [2018/5/12"OpenStreetMapに足りないモノ"](https://medium.com/furuhashilab/openstreetmap%E3%81%AB%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%E3%83%A2%E3%83%8E-e1bf1853e5ce)
 * [2018/5/20"地図に建物って載ってる？"](https://medium.com/furuhashilab/%E5%9C%B0%E5%9B%B3%E3%81%AB%E5%BB%BA%E7%89%A9%E3%81%A3%E3%81%A6%E8%BC%89%E3%81%A3%E3%81%A6%E3%81%9F%E3%81%A3%E3%81%91-4c78e7bb5fab)
