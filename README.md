@@ -8,3 +8,4 @@
 * [2018/7/6"JOSMというツール"](https://medium.com/furuhashilab/josm%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-4e07cac389af)
 * [2018/7/21"iD Editorというツール"](https://medium.com/furuhashilab/id-editor%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-3ceb80c62367)
 * [2018/7/28"Field Papersというツール"](https://medium.com/furuhashilab/field-papers%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-d655b79e0360)
+* [2018/8/12"OSMについて熱く語ろう"](https://medium.com/furuhashilab/osm%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%86%B1%E3%81%8F%E8%AA%9E%E3%82%8D%E3%81%86-fed7fd193ecf)
