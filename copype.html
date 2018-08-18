@@ -44,8 +44,47 @@
       }
 
       #btnCurLocation { 
-        width: 50px;
-        height: 50px;
+        position: absolute;
+        top: calc(100% - 0.25rem);
+        left: calc(100% - 0.25rem);
+        transform: translate(-100%, -120%);
+        width: 90px;
+        height: 90px;
+      }
+
+      #search {
+        position: absolute;
+        top: calc(100% - 0.25rem);
+        left: 0.25rem;
+        transform: translate(0, -100%);
+        width: 60px;
+        height: 60px;
+      }
+
+      #compas {
+        position: absolute;
+        top: 0.25rem;
+        left: calc(100% - 0.25rem);
+        transform: translate(-100%, 0);
+        width: 60px;
+        height: 60px;
+      }
+      #tag {
+        position: absolute;
+        top: calc(100% - 0.25rem);
+        left: calc(100% - 0.25rem);
+        transform: translate(-100%, -340%);
+        width: 90px;
+        height: 90px;
+      }
+
+      #build{
+        position: absolute;
+        top: calc(100% - 0.25rem);
+        left: calc(100% - 0.25rem);
+        transform: translate(-100%, -230%);
+        width: 90px;
+        height: 90px;
       }
     </style>
   </head>
@@ -53,11 +92,12 @@
     <div class='main'>
       <div id="mapid"></div>
 
-      <div class='widget'>
-        <div class='buttons is-right'>
-            <button id="btnCurLocation" class='button is-warning' onClick="setCurLocation()"><i class='mdi mdi-crosshairs-gps'></i></button>
-        </div>
-      </div>
+    <div class='widget'>
+      <button id="btnCurLocation" class='button is-bottom' onClick="setCurLocation()"><i class='mdi mdi-crosshairs-gps mdi-48px'></i></button>
+      <button id="search" class='button is-bottom'><i class='mdi mdi-magnify mdi-36px'></i></button>
+      <button id="compas" class='button'><i class='mdi mdi-apple-safari mdi-36px'></i></button>
+      <button id="tag" class='button'><i class='mdi mdi-tag-plus mdi-48px'></i></button>
+      <button id="build" class='button'><i class='far fa-building fas fa-3x'></i></button>
     </div>
  
     <script>
@@ -92,11 +132,7 @@
         };
 
         navigator.geolocation.getCurrentPosition(success, error);
-
-        var searchLayer = L.layerGroup().addTo(map);
-        //... adding data in searchLayer ...
-        map.addControl( new L.Control.Search({layer: searchLayer}) );
-        //searchLayer is a L.LayerGroup contains searched markers
+        
       }
     </script>
   </body>
