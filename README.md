@@ -10,5 +10,6 @@
 * [2018/7/28"Field Papersというツール"](https://medium.com/furuhashilab/field-papers%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-d655b79e0360)
 * [2018/8/12"OSMについて熱く語ろう"](https://medium.com/furuhashilab/osm%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%86%B1%E3%81%8F%E8%AA%9E%E3%82%8D%E3%81%86-fed7fd193ecf)
 * [2018/8/19"石巻ハッカソン体験記"](https://medium.com/furuhashilab/%E7%9F%B3%E5%B7%BB%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3%E4%BD%93%E9%A8%93%E8%A8%98-8b062126346b)
+* [2018/8/21"var と let 。実際は、、"](https://medium.com/furuhashilab/var-%E3%81%A8-let-%E5%AE%9F%E9%9A%9B%E3%81%AF-b538bd1d5218)
 * [2018/9/16"maps.meというツール"](https://medium.com/furuhashilab/maps-me%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-eb086f2a6d06)
 * [2018/9/25"Mapillaryというツール"](https://medium.com/furuhashilab/mapillary%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-e6f19c6fb668)
