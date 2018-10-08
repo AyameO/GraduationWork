@@ -13,3 +13,4 @@
 * [2018/8/21"var と let 。実際は、、"](https://medium.com/furuhashilab/var-%E3%81%A8-let-%E5%AE%9F%E9%9A%9B%E3%81%AF-b538bd1d5218)
 * [2018/9/16"maps.meというツール"](https://medium.com/furuhashilab/maps-me%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-eb086f2a6d06)
 * [2018/9/25"Mapillaryというツール"](https://medium.com/furuhashilab/mapillary%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-e6f19c6fb668)
+* [2018/10/8"Go Map!!というツール"](https://medium.com/furuhashilab/go-map-%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-70a42718689f)
