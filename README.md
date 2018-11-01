@@ -16,3 +16,4 @@
 * [2018/10/8"Go Map!!というツール"](https://medium.com/furuhashilab/go-map-%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-70a42718689f)
 * [2018/10/14"Mapswipeというツール"](https://medium.com/furuhashilab/mapswipe%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-15111f661782)
 * [2018/10/21"OpenStreetCamというツール"](https://medium.com/furuhashilab/openstreetcam%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-b3369e5d960a)
+* [2018/10/28"OpenStreetMap×MyWork"](https://medium.com/furuhashilab/openstreetmap-mywork-49a9219d6928)
